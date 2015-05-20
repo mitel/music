@@ -1,0 +1,19 @@
+{
+  "name": "music",
+  "version": "0.0.1",
+  "authors": [
+    "mitel <mitelone@gmail.com>"
+  ],
+  "description": "react steroids webpack",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "supersonic": "~1.5.2"
+  }
+}
